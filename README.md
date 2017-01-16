@@ -1,6 +1,6 @@
 # MODERN JS - 03 - React ToDoList
 
-Primi passi con React: setup ambiente di lavoro, sintassi ES2015, mediator pattern, componenti.
+Prima semplice applicazione multicomponent in React.
 
 ### 0. Software necessario
 * [Google Chrome](https://www.google.it/chrome/browser/desktop/)
